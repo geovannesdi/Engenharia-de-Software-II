@@ -38,6 +38,8 @@ namespace Bridge.RealWorld
 
             customers.Show();
 
+            customers.LastRecord();
+
             customers.Add("Henry Velasquez");
 
 
@@ -82,6 +84,10 @@ namespace Bridge.RealWorld
             _dataObject.NextRecord();
         }
 
+        public virtual void LastRecord()
+        {
+            _dataObject.LastRecord();
+        }
 
         public virtual void Prior()
         {
@@ -152,6 +158,8 @@ namespace Bridge.RealWorld
         public abstract void NextRecord();
 
         public abstract void PriorRecord();
+
+        public abstract void LastRecord();
 
         public abstract void AddRecord(string name);
 

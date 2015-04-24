@@ -11,3 +11,5 @@ C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engen
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\State\bin\Debug\State.pdb
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\State\obj\x86\Debug\State.exe
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\State\obj\x86\Debug\State.pdb
+E:\GitHub\Engenharia-de-Software-II-Padroes-de-Projeto\PadroesProjeto c#\State\obj\x86\Debug\State.exe
+E:\GitHub\Engenharia-de-Software-II-Padroes-de-Projeto\PadroesProjeto c#\State\obj\x86\Debug\State.pdb

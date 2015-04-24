@@ -11,3 +11,7 @@ C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engen
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Composite\bin\Debug\Composite.pdb
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.exe
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.pdb
+E:\GitHub\Engenharia-de-Software-II-Padroes-de-Projeto\PadroesProjeto c#\Composite\bin\Debug\Composite.exe
+E:\GitHub\Engenharia-de-Software-II-Padroes-de-Projeto\PadroesProjeto c#\Composite\bin\Debug\Composite.pdb
+E:\GitHub\Engenharia-de-Software-II-Padroes-de-Projeto\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.exe
+E:\GitHub\Engenharia-de-Software-II-Padroes-de-Projeto\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.pdb

@@ -26,6 +26,9 @@ namespace TemplateMethod.RealWorld
 
             daoProducts.Run();
 
+            DataAccessObject daoUsuario = new Products();
+
+            daoUsuario.Run();
 
             // Wait for user
 
@@ -144,6 +147,40 @@ namespace TemplateMethod.RealWorld
             foreach (DataRow row in dataTable.Rows)
             {
                 Console.WriteLine(row["ProductName"]);
+            }
+
+            Console.WriteLine();
+        }
+    }
+
+    /// <summary>
+    /// A 'ConcreteClass' class
+    /// </summary>
+    internal class Usuario : DataAccessObject
+    {
+        public override void Select()
+        {
+            string sql = "select Nome from Usuario";
+
+            var dataAdapter = new OleDbDataAdapter(
+                sql, connectionString);
+
+
+            dataSet = new DataSet();
+
+            dataAdapter.Fill(dataSet, "Usuario");
+        }
+
+
+        public override void Process()
+        {
+            Console.WriteLine("Usuario ---- ");
+
+            DataTable dataTable = dataSet.Tables["Usuario"];
+
+            foreach (DataRow row in dataTable.Rows)
+            {
+                Console.WriteLine(row["UsuarioName"]);
             }
 
             Console.WriteLine();

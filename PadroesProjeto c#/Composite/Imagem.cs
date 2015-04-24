@@ -49,11 +49,20 @@ namespace Composite.RealWorld
 
             root.Remove(pe);
 
+            // adicionar novo ramo
+
+            var novoComp =
+                new CompositeElement("Circulo roza");
+
+            novoComp.Add(new PrimitiveElement("Circulo azul"));
+
+            novoComp.Add(new PrimitiveElement("Circulo verde"));
+
+            root.Add(novoComp);
 
             // Recursively display nodes
 
             root.Display(1);
-
 
             // Wait for user
 

@@ -15,7 +15,7 @@ namespace Facade.Structural
         /// </summary>
         public static void Main()
         {
-            var facade = new Facade();
+            var facade = new Facade();//instancia a facade
 
 
             facade.MethodA();

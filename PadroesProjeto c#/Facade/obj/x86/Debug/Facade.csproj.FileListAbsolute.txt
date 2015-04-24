@@ -11,3 +11,5 @@ C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engen
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Facade\bin\Debug\Facade.exe
 C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Facade\bin\Debug\Facade.pdb
+E:\GitHub\Engenharia-de-Software-II-Padroes-de-Projeto\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+E:\GitHub\Engenharia-de-Software-II-Padroes-de-Projeto\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb

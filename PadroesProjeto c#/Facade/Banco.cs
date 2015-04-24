@@ -79,9 +79,24 @@ namespace Facade.RealWorld
         }
     }
 
+    /// <summary>
+    /// Subsystema Class Serasa
+    /// </summary>
+    internal class Serasa
+    {
+        public bool PesquisarNomeSerasa(Customer c)
+        {
+            Console.WriteLine("Check loans for " + c.Name);
+
+            return true;
+        }
+
+    }
+
+
 
     /// <summary>
-    /// Customer class
+    /// Customer class, cliente 
     /// </summary>
     internal class Customer
     {
@@ -110,10 +125,20 @@ namespace Facade.RealWorld
     /// </summary>
     internal class Mortgage
     {
+        
         private readonly Bank _bank = new Bank();
 
         private readonly Credit _credit = new Credit();
+
         private readonly Loan _loan = new Loan();
+
+        private readonly Serasa _serasa = new Serasa();
+
+
+        public bool ConsultaInadiplenciaserasa(Customer customer)
+        { 
+           return 
+        }
 
 
         public bool IsEligible(Customer cust, int amount)

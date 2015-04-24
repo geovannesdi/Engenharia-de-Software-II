@@ -51,7 +51,6 @@ namespace State.RealWorld
 
         protected double balance;
 
-
         protected double interest;
 
         protected double lowerLimit;
@@ -308,6 +307,36 @@ namespace State.RealWorld
         }
     }
 
+
+    //implementação de exercício 
+    internal class DiamondState : State 
+    { 
+        
+        public DiamondState(State state) : this(state.Balance, state.Account)
+        {
+            
+        }
+        
+        public DiamondState(double balance, Account account)
+        {
+            this.balance = balance;
+
+            this.account = account;
+
+            Initialize();
+        }
+
+        private void Initialize()
+        {
+            // Should come from a database
+
+            interest = 0.10;
+
+            lowerLimit = 10000.0;
+
+            upperLimit = 1000000000.0;
+        }
+    }
 
     /// <summary>
     /// The 'Context' class
