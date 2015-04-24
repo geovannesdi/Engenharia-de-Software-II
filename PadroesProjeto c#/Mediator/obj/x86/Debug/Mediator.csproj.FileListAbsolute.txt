@@ -1,0 +1,13 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Mediator\bin\Debug\Mediator.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Mediator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Mediator\obj\x86\Debug\Mediator.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Mediator\obj\x86\Debug\Mediator.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Mediator\bin\Debug\Mediator.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Mediator\bin\Debug\Mediator.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Mediator\bin\Debug\Mediator.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Mediator\bin\Debug\Mediator.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Mediator\obj\x86\Debug\Mediator.pdb

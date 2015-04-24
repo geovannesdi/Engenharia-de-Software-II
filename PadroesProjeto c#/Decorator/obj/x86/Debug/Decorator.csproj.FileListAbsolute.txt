@@ -1,0 +1,13 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Decorator\bin\Debug\Decorator.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Decorator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Decorator\obj\x86\Debug\Decorator.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Decorator\obj\x86\Debug\Decorator.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Decorator\bin\Debug\Decorator.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Decorator\bin\Debug\Decorator.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Decorator\bin\Debug\Decorator.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Decorator\bin\Debug\Decorator.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Decorator\obj\x86\Debug\Decorator.pdb

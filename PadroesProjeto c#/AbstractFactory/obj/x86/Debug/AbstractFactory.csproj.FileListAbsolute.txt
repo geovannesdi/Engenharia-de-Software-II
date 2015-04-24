@@ -1,0 +1,13 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb

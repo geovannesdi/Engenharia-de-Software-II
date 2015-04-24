@@ -1,0 +1,13 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\bin\Debug\Iterator.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\obj\x86\Debug\Iterator.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\obj\x86\Debug\Iterator.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Iterator\bin\Debug\Iterator.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Iterator\bin\Debug\Iterator.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Iterator\bin\Debug\Iterator.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Iterator\bin\Debug\Iterator.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.pdb

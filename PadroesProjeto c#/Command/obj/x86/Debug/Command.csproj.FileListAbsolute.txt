@@ -1,0 +1,13 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Command\bin\Debug\Command.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Command\bin\Debug\Command.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Command\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Command\obj\x86\Debug\Command.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Command\obj\x86\Debug\Command.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Command\bin\Debug\Command.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Command\bin\Debug\Command.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Command\obj\x86\Debug\Command.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Command\obj\x86\Debug\Command.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Command\bin\Debug\Command.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Command\bin\Debug\Command.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Command\obj\x86\Debug\Command.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Command\obj\x86\Debug\Command.pdb

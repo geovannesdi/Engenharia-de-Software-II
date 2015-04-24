@@ -1,0 +1,13 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Visitor\bin\Debug\Visitor.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Visitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Visitor\obj\x86\Debug\Visitor.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Visitor\obj\x86\Debug\Visitor.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Visitor\bin\Debug\Visitor.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Visitor\bin\Debug\Visitor.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Visitor\bin\Debug\Visitor.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Visitor\bin\Debug\Visitor.pdb
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.exe
+C:\Users\MoobTech\Documents\MEGAsync\Sistemas de Informação\6º Período\Engenharia de Software II\2015.1\PadroesProjeto c#\Visitor\obj\x86\Debug\Visitor.pdb
