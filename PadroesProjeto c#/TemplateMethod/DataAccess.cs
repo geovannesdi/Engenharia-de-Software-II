@@ -154,6 +154,7 @@ namespace TemplateMethod.RealWorld
     }
 
     /// <summary>
+    /// Exercício em sala
     /// A 'ConcreteClass' class
     /// </summary>
     internal class Usuario : DataAccessObject

@@ -21,6 +21,8 @@ namespace Memento.RealWorld
 
             s.Phone = "(412) 256-0990";
 
+            s.Phone2 = "234632874687326";
+
             s.Budget = 25000.0;
 
 
@@ -36,6 +38,8 @@ namespace Memento.RealWorld
             s.Name = "Leo Welch";
 
             s.Phone = "(310) 209-7111";
+
+            s.Phone2 = "635213676125375";
 
             s.Budget = 1000000.0;
 
@@ -65,6 +69,8 @@ namespace Memento.RealWorld
         private string _name;
 
         private string _phone;
+
+        private string _phone2;
 
 
         // Gets or sets name
@@ -96,6 +102,20 @@ namespace Memento.RealWorld
             }
         }
 
+        // Gets or sets phone
+
+        public string Phone2
+        {
+            get { return _phone2; }
+
+            set
+            {
+                _phone2 = value;
+
+                Console.WriteLine("Phone2: " + _phone2);
+            }
+        }
+
 
         // Gets or sets budget
 
@@ -118,7 +138,7 @@ namespace Memento.RealWorld
         {
             Console.WriteLine("\nSaving state --\n");
 
-            var next = new Memento(_name, _phone, _budget);
+            var next = new Memento(_name, _phone, _phone2, _budget);
             atual.NextMemento = next;
             next.PreviousMemento = atual;
 
@@ -145,7 +165,10 @@ namespace Memento.RealWorld
 
             Phone = memento.Phone;
 
+            Phone2 = memento.Phone2;
+
             Budget = memento.Budget;
+
         }
     }
 
@@ -157,11 +180,13 @@ namespace Memento.RealWorld
     {
         // Constructor
 
-        public Memento(string name, string phone, double budget)
+        public Memento(string name, string phone, string phone2, double budget)
         {
             Name = name;
 
             Phone = phone;
+
+            Phone2 = phone2;
 
             Budget = budget;
         }
@@ -175,6 +200,10 @@ namespace Memento.RealWorld
         // Gets or set phone
 
         public string Phone { get; set; }
+
+        // Gets or set phone
+
+        public string Phone2 { get; set; }
 
 
         // Gets or sets budget

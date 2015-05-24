@@ -24,6 +24,11 @@ namespace Observer.RealWorld
 
             ibm.Attach(new Investor("Dósea"));
 
+            ibm.Attach(new Investor("Geovanne"));
+
+            ibm.Attach(new Investor("Engenharia"));
+
+
 
             // Fluctuating prices will notify investors
 
@@ -35,6 +40,7 @@ namespace Observer.RealWorld
 
             ibm.Price = 120.75;
 
+            ibm.Price = 122.89;
 
             // Wait for user
 

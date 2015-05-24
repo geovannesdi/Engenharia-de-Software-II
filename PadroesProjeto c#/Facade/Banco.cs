@@ -79,20 +79,20 @@ namespace Facade.RealWorld
         }
     }
 
+
     /// <summary>
-    /// Subsystema Class Serasa
+    /// The 'Subsystem ClassB' class
     /// </summary>
+    /// Feito em sala
     internal class Serasa
     {
-        public bool PesquisarNomeSerasa(Customer c)
+        public bool HasGoodSerasa(Customer c)
         {
-            Console.WriteLine("Check loans for " + c.Name);
+            Console.WriteLine("Check serasa for " + c.Name);
 
             return true;
         }
-
     }
-
 
 
     /// <summary>

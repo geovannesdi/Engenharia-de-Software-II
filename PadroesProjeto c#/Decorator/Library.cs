@@ -35,6 +35,10 @@ namespace Decorator.RealWorld
             Console.WriteLine("\nMaking video borrowable:");
 
 
+            var livroDanificado = new Danificado(book);
+
+            livroDanificado.Display();
+
             var borrowvideo = new Borrowable(video);
 
             borrowvideo.BorrowItem("Customer #1");
@@ -207,5 +211,31 @@ namespace Decorator.RealWorld
                 Console.WriteLine(" borrower: " + borrower);
             }
         }
+    }
+
+    internal class Danificado : Decorator
+    {
+        protected List<string> danificados = new List<string>();
+        
+        // Constructor
+
+        public Danificado(LibraryItem libraryItem)
+            : base(libraryItem)
+        {
+        }
+
+        public override void Display()
+        {
+            base.Display();
+
+            foreach (string danificado in danificados)
+            {
+                Console.WriteLine(" danificado: " + danificado);
+            }
+
+        }
+    
+
+
     }
 }

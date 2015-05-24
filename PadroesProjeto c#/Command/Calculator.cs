@@ -31,7 +31,10 @@ namespace Command.RealWorld
 
             user.Compute('*', 7);
 
-            
+            //Exercício em sala 
+            user.Compute('/', 2);
+
+            user.Compute('*', 7);
 
             // Undo 4 commands
 
@@ -161,6 +164,11 @@ namespace Command.RealWorld
 
                 case '*':
                     _curr *= operand;
+                    break;
+
+                case '/':
+                    _curr *= operand;
+
                     break;
             }
 

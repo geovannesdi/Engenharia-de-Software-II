@@ -36,7 +36,12 @@ namespace Iterator.RealWorld
 
             collection[7] = new Item("Item 7");
 
+            //Exercício em sala de aula 
             collection[8] = new Item("Item 8");
+
+            collection[9] = new Item("Item 9");
+
+            collection[10] = new Item("Item 10");
 
 
             // Create iterator

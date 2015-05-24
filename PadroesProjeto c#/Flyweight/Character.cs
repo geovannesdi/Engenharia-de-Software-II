@@ -16,7 +16,7 @@ namespace Flyweight.RealWorld
         {
             // Build a document with text
 
-            string document = "AAZFFZBBZFB";
+            string document = "AAZFFZBBZFBWWWWW";
 
             char[] chars = document.ToCharArray();
 
@@ -87,6 +87,10 @@ namespace Flyweight.RealWorld
 
                     case 'Z':
                         character = new CharacterZ();
+                        break;
+                    
+                    case 'w'://exercício
+                        character = new CharacterW();
                         break;
                 }
 
@@ -241,4 +245,37 @@ namespace Flyweight.RealWorld
                               " (pointsize " + this.pointSize + ")");
         }
     }
+
+    /// <summary>
+    /// Exercício proposto em sala, adição da letra w 
+    /// A 'ConcreteFlyweight' class
+    /// </summary>
+    internal class CharacterW : Character
+    {
+        // Constructor
+
+        public CharacterW()
+        {
+            symbol = 'w';
+
+            height = 200;
+
+            width = 200;
+
+            ascent = 140;
+
+            descent = 0;
+        }
+
+
+        public override void Display(int pointSize)
+        {
+            this.pointSize = pointSize;
+
+            Console.WriteLine(symbol +
+                              " (pointsize " + this.pointSize + ")");
+        }
+    }
+
+
 }

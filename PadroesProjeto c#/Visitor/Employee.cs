@@ -32,7 +32,7 @@ namespace Visitor.RealWorld
             e.Accept(new IncomeVisitor());
 
             e.Accept(new VacationVisitor());
-
+            
             e.Accept(new FaltasVisitor());
 
 

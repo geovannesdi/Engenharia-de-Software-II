@@ -150,9 +150,8 @@ namespace Adapter.RealWorld
                     case "ethanol":
                         return -114.1f;
                     
-                    case "ferro":
+                    case "ferro"://Resolução exercício 
                         return 1.5f;
-
 
                     default:
                         return 0f;

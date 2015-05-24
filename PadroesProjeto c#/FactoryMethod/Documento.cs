@@ -25,6 +25,10 @@ namespace Factory.RealWorld
 
             documents[2] = new TCC();
 
+            //Exercício em sala 
+
+            documents[3] = new Artigo();
+
             // Display document pages
 
             foreach (Document document in documents)
@@ -144,6 +148,29 @@ namespace Factory.RealWorld
         public abstract void CreatePages();
     }
 
+    /// <summary>
+    /// Exercício em sala 
+    /// Artigo 
+    ///
+    /// A 'ConcreteCreator' class
+    /// </summary>
+    internal class Artigo : Document
+    {
+        // Factory Method implementation
+
+        public override void CreatePages()
+        {
+            Pages.Add(new IntroductionPage());
+
+            Pages.Add(new ResultsPage());
+
+            Pages.Add(new ConclusionPage());
+
+            Pages.Add(new SummaryPage());
+
+            Pages.Add(new BibliographyPage());
+        }
+    }
 
     /// <summary>
     /// A 'ConcreteCreator' class
@@ -189,8 +216,11 @@ namespace Factory.RealWorld
         public override void CreatePages()
         {
             Pages.Add( new SummaryPage() );
+
             Pages.Add( new IntroductionPage() );
+
             Pages.Add( new ResultsPage()); 
+
             Pages.Add( new ConclusionPage()); 
         }
     }

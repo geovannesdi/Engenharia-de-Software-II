@@ -9,7 +9,8 @@ namespace Interpreter.Structural
     /// MainApp startup class for Structural
     /// Interpreter Design Pattern.
     /// </summary>
-    internal class MainApp
+    internal class MainApp                     //Exercício era só analizar os dois projetos 
+                                               //Contidos em Interpreter
     {
         /// <summary>
         /// Entry point into console application.

@@ -49,7 +49,7 @@ namespace Composite.RealWorld
 
             root.Remove(pe);
 
-            // adicionar novo ramo
+            // adicionar novo ramo exercício 
 
             var novoComp =
                 new CompositeElement("Circulo roza");

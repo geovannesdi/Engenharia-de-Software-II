@@ -36,7 +36,9 @@ namespace Prototype.RealWorld
 
             colormanager["flame"] = new Color(211, 34, 20);
 
-            colormanager["orange"] = new Color(100, 33, 47); 
+            colormanager["orange"] = new Color(100, 33, 47);
+
+            colormanager["roza"] = new Color(111, 12, 43);
 
 
             // User clones selected colors
@@ -49,6 +51,7 @@ namespace Prototype.RealWorld
 
             var color4 = colormanager["orange"].Clone() as Color;
 
+            var color5 = colormanager["roza"].Clone() as Color; 
 
             // Wait for user
 
